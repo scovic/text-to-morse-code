@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: auto; 
+}
+
+
+#main {
+    margin: 0 0 10px 25%;  
+    padding: 10px 10px 10px 10px;
+    width: 50%;
+    background-color: #0ef3f3;
+    height: 100%;
+    
+}
+
+
+.button-radius {
+    padding: 3px 5px;
+    border: none;
+    background-color: yellowgreen;
+    border-radius: 8px;
+    margin-bottom: 4px;
+}
+
+.button-radius:hover {
+    background-color: rgb(129, 156, 70);
+}
+
+textarea {
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    resize: none; 
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h5 {
+    margin: 2px 0;
+}
+
+.inline {
+    display: inline;
+}
+
